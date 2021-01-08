@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138310766191",
+    "project_id": "flash-chat-e0fd7",
+    "storage_bucket": "flash-chat-e0fd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138310766191:android:1bb5c9b13b63d0e4b9879a",
+        "android_client_info": {
+          "package_name": "co.samir.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138310766191-871476clps3oeopqtp8lcbl82qpbo9b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQcWhDt-HmguhyvD90D4E3VE01vrbeTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138310766191-871476clps3oeopqtp8lcbl82qpbo9b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
